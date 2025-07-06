@@ -1,0 +1,1 @@
+aws ec2 create-subnet --vpc-id vpc-123 --cidr-block 10.0.0.0/24 --availability-zone us-east-1a
