@@ -1,0 +1,10 @@
+aws-vpc-lab/
+├── diagrams/                  # Dossier contenant les diagrammes d'architecture
+│   └── vpc-architecture.png   # Diagramme de l'architecture
+├── docs/                      # Documentation supplémentaire
+│   └── lab-guide-fr.pdf       # Guide détaillé du lab en français
+├── terraform/                 # Code IaC (optionnel - à créer)
+│   ├── main.tf                # Configuration principale
+│   ├── variables.tf           # Variables
+│   └── outputs.tf             # Outputs
+└── README.md                  # Ce fichier
